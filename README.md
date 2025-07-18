@@ -4,7 +4,7 @@
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-%23039BE5?logo=tkinter)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> *"Simple pero poderoso - Edición de texto sin distracciones"*
+> *" - Edición de texto sin distracciones"*
 
 ![Demo del Editor](https://via.placeholder.com/800x500?text=PyText+Editor+Demo+Screen)
 

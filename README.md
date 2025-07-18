@@ -6,8 +6,6 @@
 
 > *" - Edición de texto sin distracciones"*
 
-![Demo del Editor](https://via.placeholder.com/800x500?text=PyText+Editor+Demo+Screen)
-
 ## 🚀 **Características Principales**
 - ✅ Interfaz gráfica limpia con **Tkinter**
 - 📂 Soporte para abrir/guardar archivos `.txt`

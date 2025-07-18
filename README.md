@@ -21,6 +21,7 @@ pip install python==3.8+
 
 # Ejecución
 python editor_texto.py
+```
 
 ## 💻 **Tecnologías Utilizadas**
 ```mermaid
@@ -29,11 +30,4 @@ pie
     "Python 3" : 45
     "Tkinter" : 35
     "File Dialogs" : 20
-
-## 🎮 **Cómo Usarlo**
-```bash
-# Requisitos previos
-pip install python==3.8+
-
-# Ejecución
-python editor_texto.py
+```

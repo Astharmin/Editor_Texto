@@ -14,6 +14,14 @@
 - 🖍️ Sintaxis básica (planeado en futuras versiones)
 - 🧰 Menú contextual con atajos esenciales
 
+## 🎮 **Cómo Usarlo**
+```bash
+# Requisitos previos
+pip install python==3.8+
+
+# Ejecución
+python editor_texto.py
+
 ## 💻 **Tecnologías Utilizadas**
 ```mermaid
 pie
@@ -22,6 +30,8 @@ pie
     "Tkinter" : 35
     "File Dialogs" : 20
 
+## 🎮 **Cómo Usarlo**
+```bash
 # Requisitos previos
 pip install python==3.8+
 
